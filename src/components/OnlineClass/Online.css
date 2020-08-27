@@ -1,0 +1,21 @@
+.online{
+    width: 70%;
+    
+   margin-left: 10px;
+    margin-top: 20px;
+}
+
+.online img{
+    width: 250px;
+    height: 200px;
+}
+.online {
+    color: lightskyblue;
+}
+.online button{
+    background-image: linear-gradient(green,red);
+    width: 90px;
+    height: 50px;
+    color: white;
+    cursor: pointer;
+}

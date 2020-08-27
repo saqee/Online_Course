@@ -1,0 +1,13 @@
+
+.cart{
+    width: 280px;
+    
+    margin:10px;
+    border-bottom: 1px solid lightgray;
+}
+.cart h2{
+    color: lightsalmon;
+}
+.cart h3{
+    color:black;
+}

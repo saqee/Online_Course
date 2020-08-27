@@ -1,0 +1,18 @@
+nav {
+    background-color:lightcoral;
+    padding-bottom:20px;
+    padding-top: 20px;
+    margin-top: -20px;
+  }
+  nav a{
+    text-decoration: none;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    margin:20px;
+    color: white;
+    cursor: pointer;
+    
+  }
+  nav a:hover{
+    background-color: lightseagreen;
+  }
